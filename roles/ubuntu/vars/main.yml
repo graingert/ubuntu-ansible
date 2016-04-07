@@ -29,6 +29,7 @@ apt_packages:
   - ffmpeg
   - figlet
   - git
+  - gpg2
   - htop
   - iftop
   - jq
